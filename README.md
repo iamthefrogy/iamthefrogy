@@ -20,6 +20,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="453"/>
   
- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+ If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
 <a href="https://www.buymeacoffee.com/frogy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
