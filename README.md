@@ -6,7 +6,6 @@
   <img align="left" alt="Chintan Gurjar" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
   </a>
 <br />
-<br />
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif?raw=true" width="400" height="350" />
 
 Hi, I'm Chintan Gurjar, Cyber Security practitioner capable of strategizing, architecting, building and maturing cyber security initiatives. Passionate about analyzing cyber security risks and translating them to actionable countermeasures.
