@@ -21,7 +21,7 @@ CEH - Certified Ethical Hacker<br/>
 - 📫 How to reach me: chintangurjar@outlook.com
 - 🌐 Know more about me: https://iamthefrogy.github.io/
 - 📈 My GitHub Stats
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="453"/>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="353"/>
 
  If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
