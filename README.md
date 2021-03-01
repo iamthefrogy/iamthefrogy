@@ -7,7 +7,7 @@
   </a>
 <br />
 <br />
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif?raw=true" width="450" height="350" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif?raw=true" width="400" height="350" />
 
 Hi, I'm Chintan Gurjar, Cyber Security practitioner capable of strategizing, architecting, building and maturing cyber security initiatives. Passionate about analyzing cyber security risks and translating them to actionable countermeasures.
 
@@ -16,5 +16,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything in cyber security, I am happy to help;
 - 📫 How to reach me: chintangurjar@outlook.com
+- 🌐 Know more about me: https://iamthefrogy.github.io/frogy.github.io/
 - 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" />
