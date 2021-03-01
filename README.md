@@ -1,5 +1,6 @@
 ### Hi there, thanks for visiting my profile 👋
-![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.iamthefrogy)<a href="https://twitter.com/iamthefrogy"> <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="480" height="355" />
+![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.iamthefrogy)<a href="https://twitter.com/iamthefrogy"> 
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="480" height="355" />
  
   <img align="left" alt="Chintan Gurjar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -21,9 +22,6 @@ CEH - Certified Ethical Hacker<br/>
 - 💬 Ask me about anything in cyber security, I am happy to help;
 - 📫 How to reach me: chintangurjar@outlook.com
 - 🌐 Know more about me: https://iamthefrogy.github.io/
-- 📈 My GitHub Stats
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="353"/>
-
  If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
 <a href="https://www.buymeacoffee.com/frogy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
