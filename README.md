@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, thanks for visiting my profile 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.iamthefrogy)<a href="https://twitter.com/iamthefrogy">
   <img align="left" alt="Chintan Gurjar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
