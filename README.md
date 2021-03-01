@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: chintangurjar@outlook.com
 - 🌐 Know more about me: https://iamthefrogy.github.io/frogy.github.io/
 - 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="400"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="500"/>
   
  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
