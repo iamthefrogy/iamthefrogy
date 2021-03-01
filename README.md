@@ -3,8 +3,7 @@
   <img align="left" alt="Chintan Gurjar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chintangurjar/">
-  <img align="left" alt="Chintan Gurjar" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <img align="left" alt="Chintan Gurjar" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.iamthefrogy)
 
 <br />
