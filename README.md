@@ -5,13 +5,19 @@
 <a href="https://www.linkedin.com/in/chintangurjar/">
   <img align="left" alt="Chintan Gurjar" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
   </a>
-<br />
+<br/>
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif?raw=true" width="400" height="350" />
 
 Hi, I'm Chintan Gurjar, Cyber Security practitioner capable of strategizing, architecting, building and maturing cyber security initiatives. Passionate about analyzing cyber security risks and translating them to actionable countermeasures.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br/>
 
+#### Certifications
+- CCFH - Certified CrowdStrike Falcon Hunter
+- CCFA - Certified CrowdStrike Falcon Administrator
+- OSCP - Offensive Security Certified Professional
+- CTIA - Cyber Threat Intelligence Analyst
+- CEH - Certified Ethical Hacker
   
 - 💬 Ask me about anything in cyber security, I am happy to help;
 - 📫 How to reach me: chintangurjar@outlook.com
