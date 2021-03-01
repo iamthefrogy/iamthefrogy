@@ -17,13 +17,14 @@ CCFH - Certified CrowdStrike Falcon Hunter<br/>
 CCFA - Certified CrowdStrike Falcon Administrator<br/>
 OSCP - Offensive Security Certified Professional<br/>
 CTIA - Cyber Threat Intelligence Analyst<br/>
-CEH - Certified Ethical Hacker
+CEH - Certified Ethical Hacker<br/>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="453"/>
+
   
 - 💬 Ask me about anything in cyber security, I am happy to help;
 - 📫 How to reach me: chintangurjar@outlook.com
 - 🌐 Know more about me: https://iamthefrogy.github.io/
 - 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamthefrogy&show_icons=true&theme=gotham" alt="iamthefrogy" width="453"/>
   
  If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
