@@ -13,6 +13,7 @@ Hi, I'm Chintan Gurjar, Cyber Security practitioner capable of strategizing, arc
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br/>
 
 #### Certifications
+MGT516 - SANS Enterprise and Cloud Vulnerability Management<br/>
 CCFH - Certified CrowdStrike Falcon Hunter<br/>
 CCFA - Certified CrowdStrike Falcon Administrator<br/>
 OSCP - Offensive Security Certified Professional<br/>
