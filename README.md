@@ -13,7 +13,5 @@ CTIA - Cyber Threat Intelligence Analyst<br/>
 CEH - Certified Ethical Hacker<br/>
 - 💬 Ask me about anything in cyber security, I am happy to help;
 - 📫 How to reach me: chintangurjar@outlook.com
-- 🌐 Know more about me: https://iamthefrogy.github.io/
+- 🌐 Know more about me: https://chintangurjar.com/
  If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
-
-<a href="https://www.buymeacoffee.com/frogy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
